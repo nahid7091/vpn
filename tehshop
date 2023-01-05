@@ -19,5 +19,27 @@ vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJmaSIsCiAgImFkZCI6ICI1NC4zNy4yMzUuNDYiLAog
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJmaSIsCiAgImFkZCI6ICIxNDYuNTkuOTIuMTAxIiwKICAicG9ydCI6IDIwNTMsCiAgImlkIjogIjY3NzYzM2IyLWZjZDMtNGMwYi04MDcxLTg1OWQ1MjY0N2Y1OCIsCiAgImFpZCI6IDAsCiAgIm5ldCI6ICJ0Y3AiLAogICJ0eXBlIjogImh0dHAiLAogICJob3N0IjogIiIsCiAgInBhdGgiOiAiLyIsCiAgInRscyI6ICJub25lIgp9
 
  
+vless://cad92177-24ce-43c7-ab12-dfb4d6c27358@23.227.39.143:2053?sni=dl1.sansorchi.net&type=grpc&mode=gun&alpn=h2&serviceName=VALdGZ9k&security=tls&path=%2Fws&encryption=none#+vless+gtls
+
+vless://cad92177-24ce-43c7-ab12-dfb4d6c27358@172.67.191.189:2053?sni=dl1.sansorchi.net&type=grpc&mode=gun&alpn=h2&serviceName=VALdGZ9k&security=tls&path=%2Fws&encryption=none#+vless+gtls
+
+vless://cad92177-24ce-43c7-ab12-dfb4d6c27358@162.159.244.220:2053?sni=dl1.sansorchi.net&type=grpc&mode=gun&alpn=h2&serviceName=VALdGZ9k&security=tls&path=%2Fws&encryption=none#+vless+gtls
+
+vless://cad92177-24ce-43c7-ab12-dfb4d6c27358@162.159.244.220:443?sni=dl1.sansorchi.net&host=dl1.sansorchi.net&type=ws&security=tls&path=%2Fmetrix&encryption=none#vless_tls
+
+vless://cad92177-24ce-43c7-ab12-dfb4d6c27358@discord.com:443?sni=dl1.sansorchi.net&host=dl1.sansorchi.net&type=ws&security=tls&path=%2Fmetrix&encryption=none#vless_tls
+
+vless://cad92177-24ce-43c7-ab12-dfb4d6c27358@cdnjs.com:443?sni=dl1.sansorchi.net&host=dl1.sansorchi.net&type=ws&security=tls&path=%2Fmetrix&encryption=none#vless_tls
+
+
+trojan://ONr8MaHuti@ir.deviceosproxy.ml:35214#nahid
+
+trojan://ONr8MaHuti@deviceosproxy.ml:35214/#nahid
+
+vmess://eyJhZGQiOiIxNjIuMTU5LjI0NC4yMjAiLCJhaWQiOiIwIiwiaG9zdCI6ImRsMS5zYW5zb3JjaGkubmV0IiwiaWQiOiJjYWQ5MjE3Ny0yNGNlLTQzYzctYWIxMi1kZmI0ZDZjMjczNTgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MiLCJwb3J0IjoiODAiLCJwcyI6InZtZXNzIGtoYXJlaiIsInRscyI6IiIsInNjeSI6ImF1dG8iLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+
+vmess://eyJhZGQiOiJkaXNjb3JkLmNvbSIsImFpZCI6IjAiLCJob3N0IjoiZGwxLnNhbnNvcmNoaS5uZXQiLCJpZCI6ImNhZDkyMTc3LTI0Y2UtNDNjNy1hYjEyLWRmYjRkNmMyNzM1OCIsIm5ldCI6IndzIiwicGF0aCI6Ii93cyIsInBvcnQiOiI4MCIsInBzIjoidm1lc3Mga2hhcmVqIiwidGxzIjoiIiwic2N5IjoiYXV0byIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+
+vmess://eyJhZGQiOiJpcmFuc2VydmVyLmNvbSIsImFpZCI6IjAiLCJob3N0IjoiZGwxLnNhbnNvcmNoaS5uZXQiLCJpZCI6ImNhZDkyMTc3LTI0Y2UtNDNjNy1hYjEyLWRmYjRkNmMyNzM1OCIsIm5ldCI6IndzIiwicGF0aCI6Ii93cyIsInBvcnQiOiI4MCIsInBzIjoidm1lc3Mga2hhcmVqIiwidGxzIjoiIiwic2N5IjoiYXV0byIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
 
